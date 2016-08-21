@@ -1,0 +1,15 @@
+node_modules
+obj
+log
+.vs
+*.njsproj
+*.sln
+*.dat
+*.tmp
+*.log
+credentials.js
+
+data
+uploads
+
+media

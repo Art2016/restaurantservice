@@ -128,7 +128,6 @@ router.put('/:oid', isAutenticated, function(req, res, next) {
       }
     });
   });
-
 });
 
 module.exports = router;
